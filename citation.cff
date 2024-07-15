@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you refer this presentation, please cite it as below."
+authors:
+- family-names: "Anand"
+  given-names: "Apoorv"
+  email: "apoorv7491@gmail.com"
+  orcid: "https://orcid.org/0000-0002-1157-8057"
+title: "Translating Research into Action (YLAC Speaker Session)"
+type: talk
+version: 1.0.0
+doi: 10.5281/zenodo.12741750
+date-released: 2024-07-07
+url: "https://github.com/apoorv74/ylac-2024-session"
+license: CC-BY-SA-4.0
